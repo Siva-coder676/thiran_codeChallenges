@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865278959026",
+    "project_id": "thirantickets",
+    "storage_bucket": "thirantickets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865278959026:android:0de1f05654a09dbce498ab",
+        "android_client_info": {
+          "package_name": "com.example.thiran_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9Pzs61k9x0tSKpm8Z7NDqwC0bDh52SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
